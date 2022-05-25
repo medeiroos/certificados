@@ -18,6 +18,10 @@
   
   * **BANCO DE DADOS COM PYTHON DJANGO**
   
-  <img align = "center" alt= "certificado" src= "https://hermes.digitalinnovation.one/certificates/cover/2FF7A777.jpg" />
+    <img align = "center" alt= "certificado" src= "https://hermes.digitalinnovation.one/certificates/cover/2FF7A777.jpg" />
   
 </div>
+
+* **Desenvolvimento avançado Python com Flask e REST API**
+
+    <img align = "center" alt= "certificado" src= "https://hermes.digitalinnovation.one/certificates/cover/0B0C0092.jpg" />
